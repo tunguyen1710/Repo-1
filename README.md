@@ -1,2 +1,1 @@
-# TMA-training
-how to work with Git
+#huong dan git co ban
