@@ -1,0 +1,6 @@
+   1 : 1234567890
+   2 : abcdefghij
+   3 : klmnopqrst
+   4 : uvwxyz*<>"
+   5 : -=}'{deiosl;
+   -END-
